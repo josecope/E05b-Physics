@@ -1,5 +1,11 @@
 # E05b-Physics
-Exploring 2D physics and collisions.
+Hello!
+
+In this assignment, I learned how to apply gravity and other forces through coding.  It was pretty easy to grasp, and it was fun to play with the gravity value and see how big the difference was between the different numbers.
+
+In main1.py, I defined the GRAVITY value as -9.8 and then later applied the value to the acceleration function, plugging in GRAVITY as the y value.
+
+In main2.py, 
 
 In *main1.py*, you will need to apply gravity to the balls on the screen. To do so, you will need to find an appropriate gravity constant and assign GRAVITY to that number (line 17). Because of the way the Y axis works in Python Arcade, GRAVITY will need to be a negative number for the balls to fall.
 
